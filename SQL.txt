@@ -1,0 +1,15 @@
+CREATE TABLE a_news(
+id int PRIMARY KEY AUTO_INCREMENT,
+subject VARCHAR(50),
+datum DATE,
+entry VARCHAR(500)
+);
+
+CREATE TABLE news_admin(
+username VARCHAR(20) PRIMARY KEY,
+password VARCHAR(32)
+);
+
+/* Replace “username” below with wanted username and “password" with wanted password: */
+
+INSERT news_admin VALUES('admin', md5('adm123'));

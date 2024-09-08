@@ -1,0 +1,120 @@
+/* Icons PACK */
+@font-face {font-family: 'Material Icons';font-style: normal;font-weight: 400;src: url(https://fonts.gstatic.com/s/materialicons/v30/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) format('woff2');}
+.material-icons {font-family: 'Material Icons';font-weight: normal;vertical-align: middle;font-style: normal;font-size: 20px;line-height: 1;letter-spacing: normal;text-transform: none;display: inline-block;white-space: nowrap;word-wrap: normal;direction: ltr;-moz-font-feature-settings: 'liga';-moz-osx-font-smoothing: grayscale;}
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+@font-face {font-family: "Titilliumweb";font-style: normal;font-weight: normal;src: url("../fonts/TitilliumWebRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/TitilliumWebRegular.woff") format("woff"), url("../fonts/TitilliumWebRegular.ttf") format("truetype"); }
+
+.carousel-caption h2:first-child {
+	animation-delay: 0.3s;
+}
+.carousel-caption h3:nth-child(2) {
+	animation-delay: 0.8s;
+}
+.carousel-caption button {
+	animation-delay: 1.2s;
+}
+.logo {
+	margin-left: 30px;
+}
+.panel-body span {
+	font-weight: 600;
+}
+.panel-body .online {
+	color: #5cb85c;
+}
+.panel-body iframe {
+	width: 100%;
+}
+.col-md-4 .panel-footer .btn {
+	width: 100%;
+}
+.panel-body .offers {
+	color: #535561;
+}
+.col-md-7 .panel-footer p {
+	margin-top: 8px;
+}
+.col-md-7 .panel-footer .text-left a {
+	color: #5cb85c;
+	font-weight: bold;
+}
+.footer .panel-footer {
+	border-radius: 4px;
+}
+.footer .panel-footer .text-left {
+	float: left;
+	margin-top: 8px;
+}
+.footer .panel-footer .text-left a {
+	color: #5cb85c;
+	font-weight: bold; 
+}
+.footer .panel-footer .text-center {
+	text-align: center;
+	margin-top: 8px;
+}
+.panel-body .name {
+	float: left;
+	font-size: 20px;
+	margin-left: 10px;
+	margin-top: 0px;
+}
+.panel-body .description {
+	float: left;
+	font-size: 14px;
+	width: 60%;
+    padding-left: 10px;
+	margin-top: 0px;
+}
+.admin-box .col-md-5 {
+	float: none;
+    margin: 0 auto;
+}
+.action {
+	margin-top: 24px;
+}
+.feedbackcorr {
+    color: green;
+}
+.feedbackerr {
+    color: red;
+}
+.offers {
+    padding: 10px 15px;
+    position: relative;
+    height: 68px;
+}
+.offers img {
+    position: absolute;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    top: 6px;
+    left: 7px;
+}
+.offers p {
+    display: inline-block;
+    margin: 0;
+        margin-top: 0px;
+        margin-left: 0px;
+    margin-left: 42px;
+    text-overflow: ellipsis;
+    max-width: 90%;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.admin img {
+    text-align:center;
+    margin: 0 auto;
+}
+.price {
+    font-size:24px;
+    text-align:center;
+}
+.price span {
+    font-size:14px;
+}
+.order-btn {
+    width:100%;
+}
